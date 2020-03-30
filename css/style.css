@@ -373,7 +373,7 @@ hr{
         margin-top: 0;
     }
     .main-content{
-        margin-top: 200px;
+        margin-top: 50px;
     }
     body{  
     background-repeat: no-repeat;
@@ -397,5 +397,11 @@ hr{
     }
     .copyright{
         text-align: center;
+    }
+    .menu-button{
+        display: none;
+    }
+    header{
+        display: none;
     }
 }
