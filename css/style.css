@@ -404,4 +404,8 @@ hr{
     header{
         display: none;
     }
+    .container{
+        margin-left: 4%;
+        margin-right: 4%;
+    }
 }
